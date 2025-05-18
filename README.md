@@ -1,2 +1,2 @@
 # sql-data-warehouse-project
-Building a data warehiuse 
+Building a data warehouse with SQL Server
